@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Applied Economics and Management at Cornell University. My research interests are environmental economics and financial market. My CV is available [here](https://yiding-ma.github.io/files/yidingma_cv.pdf).
+Hello! I am a PhD candidate in Applied Economics and Management at Cornell University. My research interests are finance and environmental economics. My CV is available [here](https://yiding-ma.github.io/files/yidingma_cv.pdf).
 
-I am on the job market in 2023-2024 and will be available for interviews before and at ASSA 2024.
+I am on the job market in 2023-2024 and will be available for interviews.
 
 Education
 ======
@@ -50,6 +50,8 @@ Teaching Assistant - Cornell University
 * AEM 7021: General Equilibrium (PhD Level), Spring 2020
 * AEM 4290: International Financial Management, Fall 2020 and Spring 2022
 * AEM 4570: Corporate Finance, Fall 2021
+* AEM 7010: Applied Microeconomics, Fall 2023
+* AEM 2770: Excursions in Computational Sustainability, Spring 2024
 
 Awards
 ======
