@@ -28,6 +28,7 @@ with Shanjun Li, Xianglei Zhu, Fan Zhang and Hui Zhou (2022),
 Journal of Policy Analysis and Management., 41: 450-485. 
 * Assessing the Economic Impacts of Feebates: Evidence from Europe, with Mariza Montes de Oca Leon, Tarun Sridhar, and Christoph Ungerer,
 IMF 2023 Fund Internship Program Project, Work-in-Progress
+* Green Horizons: Creditor Segmentation and Firm Emissions, with Rui Albuquerque, Mathias S. Kruttli, and Sumudu W. Watugala
 
 Professional Experiences
 ======
