@@ -55,10 +55,10 @@ Teaching Assistant - Cornell University
 
 Awards
 ======
-Dyson Outstanding Teaching Assistant Award for Finance, 2022
-College of Agriculture and Life Sciences (CALS) Outstanding Teaching Assistant Award, 2022
+* Dyson Outstanding Teaching Assistant Award for Finance, 2022
+* College of Agriculture and Life Sciences (CALS) Outstanding Teaching Assistant Award, 2022
 
 Personal
 ======
-Language: Chinese (native), English
-Citizenship: China
+* Language: Chinese (native), English
+* Citizenship: China
