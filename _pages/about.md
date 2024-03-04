@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Applied Economics and Management at Cornell University. My research interests are finance and environmental economics. My CV is available [here](https://yiding-ma.github.io/files/yidingma_cv.pdf).
+Hello! I am a PhD candidate in Applied Economics and Management at Cornell University. My research interests are finance and environmental economics. My CV is available [here](https://yiding-ma.github.io/files/Ma_Yiding_CV.pdf).
 
 I am on the job market in 2023-2024 and will be available for interviews.
 
