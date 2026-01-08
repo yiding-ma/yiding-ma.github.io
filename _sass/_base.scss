@@ -19,6 +19,15 @@ strong {
   color: var(--global-text-color);
 }
 
+/* Make body text weight less light */
+body {
+  font-weight: 400 !important;
+}
+
+p {
+  font-weight: 400 !important;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -592,6 +601,8 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  font-weight: 500;
+
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
