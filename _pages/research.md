@@ -37,7 +37,7 @@ nav_order: 3
 
 <div style="height: 25px;"></div>
 
-<span style="color: var(--global-theme-color);">How Does the Cost of Capital Affect Oil Supply?</span>, 2025 (with Helena Cordt and Julien Daubanes).
+<span style="color: var(--global-theme-color);">How Does the Cost of Capital Affect Oil Production?</span>, 2026 (with Helena Cordt and Julien Daubanes).
 
 <div style="height: 25px;"></div>
 
