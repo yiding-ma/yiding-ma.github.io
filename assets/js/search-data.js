@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "[**Curriculum Vitae**](/assets/pdf/YidingMa_CV.pdf)",
+          description: "[**Curriculum Vitae**](/assets/pdf/YidingMa_CV_06292026.pdf)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
