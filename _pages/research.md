@@ -32,7 +32,7 @@ nav_order: 3
 <span style="color: var(--global-theme-color);">Investment Incentives and Financial Strategies in Utilities: Evidence from Renewable Portfolio Standards in the United States</span>, 2025.
 
 <div style="margin-left: 20px; font-size: 0.9em;">
-- Selected presentations: AERE (2025), NAERE (2025)
+- Selected presentations: 2026 CES Annual Conference<sup>†</sup>, Aarhus Finance Forum<sup>†</sup>, AERE (2025), NAERE (2025)
 </div>
 
 <div style="height: 25px;"></div>
@@ -46,4 +46,4 @@ nav_order: 3
 <div style="height: 45px;"></div>
 
 
-<small><sup>*</sup> Presented by coauthors</small>
+<small><sup>*</sup> Presented by coauthors; <sup>†</sup> Scheduled</small>
